@@ -1,0 +1,11 @@
+.friend {
+      border: 5px double;
+      margin: 15px;
+      padding: 10px;
+      border-radius: 10px;
+      background-color: rgba(168, 167, 152, 0.506);
+}
+.username{
+      color: brown;
+      font-size: 27px;
+}
